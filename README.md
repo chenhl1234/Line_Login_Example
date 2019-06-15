@@ -1,4 +1,7 @@
 # LINE Login Example
+
+[![Build status](https://dev.azure.com/chenhltsmc/AZ-400%20build%20github%20fork/_apis/build/status/AZ-400%20build%20github%20fork-ASP.NET-CI)](https://dev.azure.com/chenhltsmc/AZ-400%20build%20github%20fork/_build/latest?definitionId=-1)
+
 <img src='http://arock.blob.core.windows.net/blogdata201702/14-215656-e2740e6c-82bb-489b-9792-a271086e7e4e.png' />
 <div class="panel-body">
 背景知識:<br/>
